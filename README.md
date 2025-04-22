@@ -82,7 +82,7 @@
 - **前端&全栈**：Vue2（熟悉）、HTML5、CSS3、JavaScript、JQuery  
 - **运维&工具**：Git、Jenkins、Docker、阿里云云效、ELK、链路追踪架构  
 - **AI 相关**：OpenAI、DifyAI（企业 AI 解决方案设计）  
-- **支付系统**：微信支付、支付宝支付
+- **支付系统**：微信支付、支付宝支付、PayPal支付
 
 ---
 
