@@ -1,5 +1,5 @@
-# **陈恺 (Horizon)**  
-📍 深圳 | 📧 nanchenghorizon@gmail.com | 📞 153-7826-1121  
+# **陈恺 (Horizon)Java 后端开发工程师（中高级）｜熟悉 AI 业务落地｜三年高并发系统经验**  
+📍 深圳 | 📧 nanchenghorizon@gmail.com | 📞 153-7826-1121 | GitHub: [nanchengHorizon](https://github.com/nanchengHorizon)
 🎯 **求职意向**：中高级 Java 后端开发工程师 | **期望薪资**：面议 | **可周内到岗**  
 
 ---
@@ -39,8 +39,8 @@
 **📝 背景**：为公司内部提供智能问答及 AI 辅助功能，提高员工效率。  
 **🏗 技术栈**：SpringBoot + Redis + OpenAI + MySQL  
 **🔹 个人贡献**：  
-✅ **搭建 AI 服务架构**，结合 OpenAI，实现企业知识库问答。  
-✅ **优化 AI 交互体验**，引入 Redis 进行上下文管理，提高会话流畅度。  
+✅ **设计并搭建 AI 服务架构**，结合 OpenAI，实现企业知识库问答。  
+✅ **优化上下文缓存机制，提升会话连贯性**，引入 Redis 进行上下文管理，提高会话流畅度。  
 ✅ **支持多业务对接**，赋能电商、客服等多个业务模块。  
 
 ### **2️⃣ 电商一体化服务（Overseas）**
